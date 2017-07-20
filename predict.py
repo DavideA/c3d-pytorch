@@ -16,6 +16,7 @@ from C3D_model import C3D
 def get_sport_clip(clip_name, verbose=True):
     """
     Loads a clip to be fed to C3D for classification.
+    TODO: should I remove mean here?
     
     Parameters
     ----------
