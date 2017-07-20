@@ -1,0 +1,487 @@
+boomerang
+boxing
+bowling
+candlepin bowling
+bowls
+skittles (sport)
+ten-pin bowling
+cycling
+unicycle
+mountain unicycling
+bicycle
+bmx
+freestyle bmx
+cyclo-cross
+cross-country cycling
+road bicycle racing
+track cycling
+downhill mountain biking
+freeride
+dirt jumping
+slopestyle
+equestrianism
+fencing
+figure skating
+speed skating
+gymnastics
+tumbling (gymnastics)
+baton twirling
+artistic gymnastics
+balance beam
+floor (gymnastics)
+horizontal bar
+parallel bars
+pommel horse
+rings (gymnastics)
+sport aerobics
+uneven bars
+vault (gymnastics)
+majorette (dancer)
+rhythmic gymnastics
+hoop (rhythmic gymnastics)
+ribbon (rhythmic gymnastics)
+rope (rhythmic gymnastics)
+ball (rhythmic gymnastics)
+juggling club
+tricking
+skipping rope
+acrobatics
+slacklining
+trampolining
+trapeze
+flying trapeze
+judo
+brazilian jiu-jitsu
+tennis
+mixed martial arts
+krav maga
+yoga
+sanshou
+baguazhang
+bujinkan
+hapkido
+jeet kune do
+kajukenbo
+kalaripayattu
+kuk sool won
+northern praying mantis (martial art)
+ninjutsu
+pankration
+pencak silat
+shidokan
+shoot boxing
+shorinji kempo
+systema
+t'ai chi ch'uan
+vovinam
+xing yi quan
+skiing
+skijoring
+alpine skiing
+cross-country skiing
+freestyle skiing
+nordic skiing
+ski jumping
+ski touring
+telemark skiing
+squash (sport)
+swimming (sport)
+backstroke
+breaststroke
+butterfly stroke
+freestyle swimming
+medley swimming
+synchronized swimming
+finswimming
+water polo
+table tennis
+wrestling
+pehlwani
+shuai jiao
+yağlı güreş
+amateur wrestling
+greco-roman wrestling
+freestyle wrestling
+sport kite
+kite
+kite landboarding
+parasailing
+snowkiting
+kite buggy
+kitesurfing
+sledding
+skeleton (sport)
+toboggan
+skibobbing
+sled dog racing
+bobsleigh
+luge
+archery
+kyūdō
+pitch and putt
+croquet
+cue sports
+eight-ball
+blackball (pool)
+nine-ball
+straight pool
+ten-ball
+trick shot
+russian pyramid
+snooker
+carom billiards
+darts
+golf
+match play
+shooting sport
+practical shooting
+cowboy action shooting
+clay pigeon shooting
+skeet shooting
+trap shooting
+sporting clays
+skee ball
+knife throwing
+boules
+bocce
+boccia
+curling
+shuffleboard
+pétanque
+climbing
+canyoning
+mountaineering
+rope climbing
+ice climbing
+pole climbing (gymnastic)
+hiking
+rock climbing
+sport climbing
+abseiling
+bouldering
+walking
+backpacking (wilderness)
+race walking
+triathlon
+adventure racing
+biathlon
+duathlon
+decathlon
+heptathlon
+modern pentathlon
+pentathlon
+crossfit
+board sports
+freestyle scootering
+freeboard (skateboard)
+longboarding
+streetluge
+skimboarding
+wakesurfing
+bodyboarding
+riverboarding
+wakeboarding
+snowboarding
+sandboarding
+mountainboarding
+surfing
+skateboarding
+free running
+freestyle football
+powerbocking
+calisthenics
+footbag
+physical fitness
+pilates
+weight training
+highland games
+olympic weightlifting
+strength athletics
+bodybuilding
+powerlifting
+wallball
+running
+orienteering
+geocaching
+sprint (running)
+hurdles
+endurance
+ultramarathon
+cross country running
+half marathon
+marathon
+aggressive inline skating
+artistic roller skating
+ice skating
+inline speed skating
+rink bandy
+freestyle slalom skating
+roller derby
+roller skating
+short track speed skating
+synchronized skating
+snowmobile
+hunting
+deer hunting
+fox hunting
+disc dog
+dog agility
+bikejoring
+carting
+obedience trial
+conformation show
+dock jumping
+flyball
+french ring sport
+greyhound racing
+lure coursing
+mushing
+obedience training
+rally obedience
+schutzhund
+sheepdog trial
+sighthound
+weight pulling
+dachshund racing
+barrel racing
+charreada
+chilean rodeo
+cross-country equestrianism
+dressage
+endurance riding
+english pleasure
+equitation
+eventing
+equestrian vaulting
+gymkhana
+harness racing
+horse racing
+horseball
+hunt seat
+reining
+rodeo
+bull riding
+bullfighting
+show jumping
+steeplechase
+team penning
+western pleasure
+motorcycle racing
+auto race
+road racing
+endurance racing (motorsport)
+enduro
+freestyle motocross
+grand prix motorcycle racing
+rally raid
+motocross
+ice racing
+motorcycle speedway
+superbike racing
+supermoto
+track racing
+trial
+isle of man tt
+motorcycle drag racing
+all-terrain vehicle
+remote control
+radio-controlled car
+robot combat
+auto racing
+autocross
+autograss
+banger racing
+demolition derby
+desert racing
+dirt track racing
+drag racing
+drifting (motorsport)
+folkrace
+formula racing
+kart racing
+monster truck
+mud bogging
+off-road racing
+race of champions
+rallycross
+rallying
+short track motor racing
+sports car racing
+sprint car racing
+street racing
+stock car racing
+time attack
+tractor pulling
+touring car racing
+truck racing
+motorboat racing
+f1 powerboat racing
+hydroplane racing
+jetsprint
+personal water craft
+drag boat racing
+badminton
+basque pelota
+frontenis
+jai alai
+beach tennis
+lacrosse
+women's lacrosse
+padel tennis
+pickleball
+racquetball
+soft tennis
+team handball
+goalball
+tchoukball
+beach handball
+hockey
+underwater hockey
+ball hockey
+bandy
+broomball
+field hockey
+indoor field hockey
+floorball
+ice hockey
+ringette
+pond hockey
+roller hockey
+inline hockey
+roller hockey (quad)
+sledge hockey
+street hockey
+polo
+canoe polo
+sepak takraw
+association football
+ulama
+paintball
+volleyball
+beach volleyball
+color guard (flag spinning)
+capture the flag
+hide-and-seek
+kabaddi
+ultimate (sport)
+hurling
+basketball
+netball
+3x3 (basketball)
+streetball
+wheelchair basketball
+korfball
+slamball
+kickball
+baseball
+cricket
+limited overs cricket
+one day international
+test cricket
+twenty20
+rounders
+softball
+tee ball
+wiffle ball
+beach soccer
+futsal
+indoor soccer
+street football
+australian rules football
+gaelic football
+gridiron football
+american football
+flag football
+indoor american football
+canadian football
+arena football
+rugby
+rugby sevens
+football tennis
+footvolley
+dodgeball
+ga-ga
+rundown
+fistball
+jianzi
+peteca
+valencian frontó
+fives
+valencian pilota
+disc golf
+flying disc freestyle
+capoeira
+fujian white crane
+karate
+kenpō
+kickboxing
+muay thai
+pradal serey
+savate
+shaolin kung fu
+silat
+taekwondo
+taido
+tang soo do
+wing chun
+wing tsun
+zui quan
+airsoft
+laser tag
+grappling
+jujutsu
+sambo (martial art)
+sumo
+daitō-ryū aiki-jūjutsu
+aikido
+kenjutsu
+kung fu (term)
+modern arnis
+okinawan kobudō
+wushu (sport)
+battōjutsu
+eskrima
+gatka
+haidong gumdo
+iaidō
+jōdō
+kendo
+sailing
+land sailing
+windsurfing
+dinghy sailing
+rowing (sport)
+dragon boat
+fishing
+angling
+big-game fishing
+casting (fishing)
+noodling
+spearfishing
+surf fishing
+rock fishing
+fly fishing
+diving
+free-diving
+scuba diving
+snorkeling
+canoeing
+kayaking
+creeking
+sea kayak
+surf kayaking
+whitewater kayaking
+rafting
+gliding
+hang gliding
+powered hang glider
+paragliding
+powered paragliding
+parachuting
+base jumping
+wingsuit flying
+ultralight aviation
+aerobatics
+air racing
+hot air ballooning
+model aircraft
