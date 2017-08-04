@@ -4,7 +4,7 @@ This is a pytorch porting of the network presented in the paper [Learning Spatio
 
 ---
 ### How to use:
-* Download the pretrained weights from [here](http://imagelab.ing.unimore.it/files/c3d_pytorch/c3d.pickle).
+* Download the pretrained weights (Sports1M) from [here](http://imagelab.ing.unimore.it/files/c3d_pytorch/c3d.pickle).
 * Run the predict script.
 
 **disclaimer**: Performances tested only qualitatively! No warranty!
